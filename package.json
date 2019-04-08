@@ -1,0 +1,51 @@
+{
+  "_from": "cordova-plugin-photo-library@^1.2.2",
+  "_id": "cordova-plugin-photo-library@1.2.2",
+  "_inBundle": false,
+  "_integrity": "sha1-MPHWaNOLNMA7wjJfxG74IJqka7o=",
+  "_location": "/cordova-plugin-photo-library",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cordova-plugin-photo-library@^1.2.2",
+    "name": "cordova-plugin-photo-library",
+    "escapedName": "cordova-plugin-photo-library",
+    "rawSpec": "^1.2.2",
+    "saveSpec": null,
+    "fetchSpec": "^1.2.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-photo-library/-/cordova-plugin-photo-library-1.2.2.tgz",
+  "_shasum": "30f1d668d38b34c03bc2325fc46ef8209aa46bba",
+  "_spec": "cordova-plugin-photo-library@^1.2.2",
+  "_where": "/Users/ayong/Desktop/HuXinjia",
+  "author": {
+    "name": "Roman Viskin",
+    "email": "npm@terikon.com",
+    "url": "http://il.linkedin.com/in/romanviskin"
+  },
+  "bugs": {
+    "url": "https://github.com/terikon/cordova-plugin-photo-library/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Plugin that just gets photos from the gallery",
+  "devDependencies": {
+    "eslint": "^3.4.0"
+  },
+  "homepage": "https://github.com/terikon/cordova-plugin-photo-library#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "cordova-plugin-photo-library",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terikon/cordova-plugin-photo-library.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.2"
+}
